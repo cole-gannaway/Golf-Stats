@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Golf-Stats/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Golf-Stats/static/js/main.6a77b433.chunk.js",
+    "main.js.map": "/Golf-Stats/static/js/main.6a77b433.chunk.js.map",
+    "runtime-main.js": "/Golf-Stats/static/js/runtime-main.c6a92872.js",
+    "runtime-main.js.map": "/Golf-Stats/static/js/runtime-main.c6a92872.js.map",
+    "static/js/2.deeefd32.chunk.js": "/Golf-Stats/static/js/2.deeefd32.chunk.js",
+    "static/js/2.deeefd32.chunk.js.map": "/Golf-Stats/static/js/2.deeefd32.chunk.js.map",
+    "index.html": "/Golf-Stats/index.html",
+    "precache-manifest.1864e3f668b81a132a8e8ebf32b9cb5e.js": "/Golf-Stats/precache-manifest.1864e3f668b81a132a8e8ebf32b9cb5e.js",
+    "service-worker.js": "/Golf-Stats/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Golf-Stats/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.deeefd32.chunk.js.LICENSE.txt": "/Golf-Stats/static/js/2.deeefd32.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6a92872.js",
+    "static/js/2.deeefd32.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.6a77b433.chunk.js"
+  ]
+}
